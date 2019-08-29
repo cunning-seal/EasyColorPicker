@@ -1,10 +1,9 @@
 import pyautogui
-import os
 from PIL import Image
 import tempfile
 
 # TODO решить проблему с отловом клика в любой области (pynput не робит почему-то)
-
+# TODO очень много левых библиотек при установке. Попытаться поискать иные варианты
 
 import tkinter as tk
 
